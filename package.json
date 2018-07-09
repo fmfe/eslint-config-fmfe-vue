@@ -1,6 +1,6 @@
 {
   "name": "@fmfe/eslint-config-fmfe-vue",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Vuejs ESLint configuration of Followme Frontend Team Edit",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "url": "https://github.com/fmfe/eslint-config-fmfe-vue/issues"
   },
   "homepage": "https://github.com/fmfe/eslint-config-fmfe-vue#readme",
-  "devDependencies": {
+  "dependencies": {
     "eslint": "^4.3.0",
     "eslint-plugin-vue-libs": "^2.1.0",
     "eslint-plugin-vue": "^2.1.0"
